@@ -1,0 +1,5 @@
+clear
+lua l packetviewer
+lua l npclogger
+lua l idview
+pv l b f
